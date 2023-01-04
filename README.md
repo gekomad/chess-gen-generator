@@ -1,8 +1,8 @@
 chess-gen-generator
 ======  
 
-Run test
-----
+
+```
 
      a   b   c   d   e   f   g   h
    ----+---+---+---+---+---+---+----
@@ -52,9 +52,10 @@ side to move: White
 19)	b1-c3	1
 20)	b1-a3	1
 Tot 20 nodes
+```
 
-
-```  
+Run test
+----
 sbt test
 
 
